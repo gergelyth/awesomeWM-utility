@@ -1,0 +1,6 @@
+# email-notification - sensitive stuff
+email-notification/credentials.json
+email-notification/token.pickle
+
+# python execution
+*/__pycache__
